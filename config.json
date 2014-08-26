@@ -1,0 +1,11 @@
+{
+  "smtp": {
+    "host": "localhost",
+    "port": 25
+  },
+  "sendmail": {
+    "from": "hogehoge@sample.com",
+    "to": "hogehoge@sample.com",
+    "subject": "hogehoge"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "restmail",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "nodemailer-smtp-transport": "^0.1.12",
+    "nodemailer": "^1.2.1"
+  }
+}
